@@ -5,6 +5,9 @@
   "description": "Download audio from Lisaan Masry dictionary",
   "version": "1.0.0",
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "icons": {
+    "24": "assets/ifx_app_icon24.png"
+  },
 
   "permissions": [
     "activeTab"
